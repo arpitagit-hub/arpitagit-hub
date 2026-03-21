@@ -69,13 +69,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arpitagit-hub&theme=onedark" />
-</p>
-
----
 
 ## 💡 Random Dev Quote
 
