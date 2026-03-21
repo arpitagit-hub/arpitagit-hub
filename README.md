@@ -10,6 +10,7 @@
 ## 🙏 Namaste, I'm Arpita 👋
 
 🎓 MCA - Guru Nanak Inatitute of Technology
+
 💻 Passionate about Software Development & Data Analytics  
 📊 Strong in C, C++, Java, Python, SQL, Power BI, React.JS/JavaScript
 
