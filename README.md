@@ -1,28 +1,29 @@
 <h1 align="center">✨ Arpita Chakraborty ✨</h1>
-<h3 align="center">Aspiring Software Developer | Data Analyst 🚀</h3>
+<h3 align="center">Aspiring Software Developer • Data Analyst • Problem Solver 🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Software+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Software+Developer;Data+Analytics+Enthusiast;DSA+Learner;Future+Tech+Professional&center=true&width=520&height=45">
 </p>
 
 ---
 
-## 🙏 Namaste, I'm Arpita
+## 🙏 Namaste, I'm Arpita 👋
 
-🎓 MCA — GURU NANAK INSTITUTE OF TECHNOLOGY 
+🎓 MCA Graduate — Jadavpur University  
 💻 Passionate about Software Development & Data Analytics  
-📊 Skilled in C, Java, Python, SQL , DSA, POWER BI, REACT.JS/JAVASCRIPT
+📊 Strong in C, C++, Java, Python, SQL, Power BI, React.JS/JavaScript
+🧠 Solid foundation in Data Structures & Algorithms  
 🚀 Preparing for IT placements  
-🌱 Currently learning Power BI, AI & Full Stack,LLM 
+🌱 Currently learning Power BI, AI & Full Stack Development  
 
 ---
 
-## 🧠 About Me
+## 💫 About Me
 
 ✨ I love solving real-world problems using technology  
 ✨ Interested in AI, Data Analyst & Software Engineering  
-✨ Strong foundation in Data Structures & Algorithms  
-✨ Always eager to learn new technologies  
+✨ Competitive programming enthusiast  
+✨ Quick learner & team player  
 
 ---
 
@@ -51,7 +52,7 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitagit-hub&theme=tokyonight" />
@@ -83,4 +84,4 @@
 
 ---
 
-⭐ *“Dream big, work hard, stay focused.”*
+⭐ *“Dream big • Work hard • Stay consistent 🚀”*
