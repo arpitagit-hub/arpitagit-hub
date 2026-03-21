@@ -32,7 +32,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/arpita-chakraborty01/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -41,9 +41,8 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,sql,powerbi,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,nodejs,mongodb,php,python,figma,git,github,tailwind,bootstrap,nextjs,mysql" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
