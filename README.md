@@ -13,7 +13,6 @@
 
 💻 Passionate about Software Development & Data Analytics  
 📊 Strong in C, C++, Java, Python, SQL, Power BI, React.JS/JavaScript
-
 🧠 Solid foundation in Data Structures & Algorithms  
 🚀 Preparing for IT placements  
 🌱 Currently learning Power BI, AI & Full Stack Development  
