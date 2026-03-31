@@ -9,21 +9,21 @@
 
 ## 🙏 Namaste, I'm Arpita 👋
 
-🎓 MCA - Guru Nanak Inatitute of Technology
+🎓 MCA — Guru Nanak Institute of Technology  
 
 💻 Passionate about Software Development & Data Analytics  
-📊 Strong in C, C++, Java, Python, SQL, Power BI, React.JS/JavaScript
+📊 Skilled in C, C++, Java, Python, SQL, Power BI, React.js  
 
-🧠 Solid foundation in Data Structures & Algorithms  
+🧠 Strong foundation in Data Structures & Algorithms  
 🚀 Preparing for IT placements  
-🌱 Currently learning Power BI, AI & Full Stack Development  
+🌱 Currently learning AI, Full Stack & Advanced Analytics  
 
 ---
 
 ## 💫 About Me
 
 ✨ I love solving real-world problems using technology  
-✨ Interested in AI, Data Analyst & Software Engineering  
+✨ Interested in AI, Data Analytics & Software Engineering  
 ✨ Competitive programming enthusiast  
 ✨ Quick learner & team player  
 
@@ -32,8 +32,12 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arpita-chakraborty01/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/arpita-chakraborty01/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
 </p>
 
 ---
@@ -41,20 +45,27 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,nodejs,mongodb,php,python,figma,git,github,tailwind,bootstrap,nextjs,mysql,streamlit" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,mongodb,php,python,figma,git,github,tailwind,bootstrap,nextjs,mysql,streamlit" />
 </p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arpitagit-hub&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=arpitagit-hub&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
+---
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitagit-hub&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=arpitagit-hub&theme=tokyonight" />
 </p>
 
 ---
@@ -67,7 +78,6 @@
 
 ---
 
-
 ## 💡 Random Dev Quote
 
 <p align="center">
@@ -76,4 +86,5 @@
 
 ---
 
+⭐ *“Dream big • Work hard • Stay consistent 🚀”*
 ⭐ *“Dream big • Work hard • Stay consistent 🚀”*
