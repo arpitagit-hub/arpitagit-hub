@@ -53,7 +53,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arpitagit-hub&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=arpitagit-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
@@ -69,10 +69,8 @@
 ## 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitagit-hub&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitagit-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
-
----
 
 ## 💡 Random Dev Quote
 
