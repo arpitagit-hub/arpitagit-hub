@@ -48,10 +48,6 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,mongodb,php,python,figma,git,github,tailwind,bootstrap,nextjs,mysql,streamlit" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
