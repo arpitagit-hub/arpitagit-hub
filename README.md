@@ -41,7 +41,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,nodejs,mongodb,php,python,figma,git,github,tailwind,bootstrap,nextjs,mysql,streamlit,openai" />
+<img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,nodejs,mongodb,php,python,figma,git,github,tailwind,bootstrap,nextjs,mysql,streamlit" />
 </p>
 ---
 
