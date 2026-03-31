@@ -43,7 +43,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,nodejs,mongodb,php,python,figma,git,github,tailwind,bootstrap,nextjs,mysql,streamlit" />
 </p>
----
 
 ## 📊 GitHub Stats
 
@@ -51,7 +50,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=arpitagit-hub&show_icons=true&theme=tokyonight" />
 </p>
 
----
 
 ## 🔥 Contribution Streak
 
