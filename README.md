@@ -5,14 +5,14 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Software+Developer;Data+Analytics+Enthusiast;DSA+Learner;Future+Tech+Professional&center=true&width=520&height=45">
 </p>
 
----
+
 
 ## 🙏 Namaste, I'm Arpita 👋
 
 🎓 MCA — Guru Nanak Institute of Technology  
 
 💻 Passionate about Software Development & Data Analytics  
-📊 Skilled in C, C++, Java, Python, SQL, Power BI, React.js  
+📊 Skilled in C, C++, Java, Python, SQL, Power BI, React.js, AI/ML  
 
 🧠 Strong foundation in Data Structures & Algorithms  
 🚀 Preparing for IT placements  
