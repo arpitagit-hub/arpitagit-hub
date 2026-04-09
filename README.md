@@ -12,7 +12,7 @@
 🎓 MCA — Guru Nanak Institute of Technology  
 
 💻 Passionate about Software Development & Data Analytics  
-📊 Skilled in C, C++, Java, Python, SQL, Power BI, React.js, AI/ML  
+📊 Skilled in C, Java, Python, SQL, Power BI, React.js, AI/ML  
 
 🧠 Strong foundation in Data Structures & Algorithms  
 🚀 Preparing for IT placements  
